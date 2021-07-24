@@ -60,6 +60,7 @@ HttpServer.get().start(80);
 ```
 
 ### Other
+```java
 import jp.toufu3.nginj.http.HttpServer;
 import jp.toufu3.nginj.http.StatusCode;
 
