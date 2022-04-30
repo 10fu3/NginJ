@@ -1,7 +1,7 @@
 # NginJ
 Java Non blocking IO Http Web Framework
 
-This framework updated. Here -> https://github.com/10fu3/ex6-10fu3-1
+**This framework updated. Here ->** https://github.com/10fu3/ex6-10fu3-1
 
 ### Receive Get Request
 ```java
